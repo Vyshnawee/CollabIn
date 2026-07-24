@@ -2,7 +2,6 @@
 
 A full-stack, LinkedIn-style social networking platform built for developers — create a professional profile, showcase your skills and projects, and discover and connect with other developers.
 
-**Live Repo:** [github.com/Vyshnawee/CollabIn](https://github.com/Vyshnawee/CollabIn)
 
 ---
 
@@ -133,19 +132,12 @@ The frontend will typically run on `http://localhost:3000` and the backend on `h
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source. Add your preferred license (e.g., MIT) here.
 
 ---
 
